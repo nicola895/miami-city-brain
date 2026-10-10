@@ -1,0 +1,8 @@
+{
+  "id": "newcomer-nyc-engineer",
+  "label": { "en": "Remote engineer moving from NYC", "es": "Ingeniero remoto que se muda desde NYC" },
+  "mode": "newcomer",
+  "preferred_language": "en",
+  "fictional": true,
+  "text": "Alex Rivera (fictional demo profile). Senior Software Engineer, 7 years of experience. Currently working fully remote for a New York fintech startup (payments APIs). Skills: TypeScript, Python, Node.js, AWS, PostgreSQL, system design, mentoring junior engineers. B.S. in Computer Science. Languages: English (native), basic Spanish. Just relocated from Brooklyn to Miami (renting in Edgewater) and doesn't know anyone here yet. Goals: meet founders and other builders, find a community and a coworking spot, maybe join an early-stage startup as a founding engineer or start something in fintech or AI within a year. Available evenings and some weekends, about 6 hours per week for networking. Budget: happy to pay for good events. Has a car."
+}
