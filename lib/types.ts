@@ -27,6 +27,8 @@ export interface Opportunity {
   source_url: string;
   last_verified: string;
   needs_verification?: boolean;
+  inactive?: boolean; // kept for the record, excluded from matching
+  inactive_reason?: string;
 }
 
 export interface Occupation {

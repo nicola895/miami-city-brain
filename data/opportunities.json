@@ -52,7 +52,9 @@
     ],
     "needs_verification": true,
     "source_url": "https://venturecafemiami.org",
-    "last_verified": "2026-10-10"
+    "last_verified": "2026-10-10",
+    "inactive": true,
+    "inactive_reason": "Official site returned HTTP 410 Gone on 2026-10-10; excluded from matching until verified."
   },
   {
     "id": "refresh-miami",

@@ -69,7 +69,7 @@ function loadWages(): Map<string, { annual?: number; hourly?: number }> {
 
 let oppCache: Opportunity[] | null = null;
 export function loadOpportunities(): Opportunity[] {
-  oppCache ??= JSON.parse(readFileSync(path.join(DATA_DIR, "opportunities.json"), "utf8"));
+  oppCache ??= (JSON.parse(readFileSync(path.join(DATA_DIR, "opportunities.json"), "utf8")) as Opportunity[]).filter((o) => !o.inactive);
   return oppCache!;
 }
 

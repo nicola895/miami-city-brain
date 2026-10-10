@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+.print-only { display: none; }
+
+@media print {
+  .no-print { display: none !important; }
+  .print-only { display: block; }
+  body { background: white; }
+  header { position: static !important; }
+  .shadow-sm, .shadow, .shadow-lg { box-shadow: none !important; }
+  a { color: inherit; text-decoration: none; }
+  li, section, .break-inside-avoid { break-inside: avoid; }
+}
