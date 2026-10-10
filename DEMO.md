@@ -20,7 +20,7 @@
 
 ### 1:00–1:25 · Newcomer in Spanish (25s)
 1. Click the logo → **✈️ Venezuelan nurse, Spanish-first** (UI flips to ES).
-2. *"María is a nurse whose license isn't transferred yet. Her whole plan is in Spanish: free English classes, immigrant services and career help, mostly free. Week by week, each item with why it fits and a next step."*
+2. *"María is a nurse whose license isn't transferred yet. Her whole plan is in Spanish: English classes, immigrant services and career help, mostly free. Week by week, each item with why it fits and a next step."*
 
 ### 1:25–1:45 · How this was made (20s)
 1. Click **🧠 Cómo se hizo / How this was made**.
