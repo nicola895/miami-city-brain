@@ -112,7 +112,7 @@ Also missing from the data: no confirmed **CDL / truck-driving** program yet, an
 You need **Node.js 20+** and a **Gemini API key** ([get one free](https://aistudio.google.com/apikey)).
 
 ```bash
-git clone <this repo> && cd miami-city-brain
+git clone https://github.com/nicola895/miami-city-brain.git && cd miami-city-brain
 npm install
 cp .env.example .env.local   # then paste your key after GEMINI_API_KEY=
 npm run dev                  # open http://localhost:3000
