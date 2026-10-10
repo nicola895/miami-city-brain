@@ -45,9 +45,13 @@ export interface Occupation {
 export interface Profile {
   current_role: string;
   years_experience: number | null;
+  current_pay_annual?: number | null;
   skills: string[];
+  skill_tags: string[];
   sectors: string[];
+  target_sectors: string[];
   education_level: string;
+  has_us_degree: boolean;
   languages: string[];
   goals: string[];
   target_role?: string | null;
@@ -61,7 +65,7 @@ export interface Profile {
   neighborhood?: string | null;
   preferred_language: Lang;
   lives_in_miami: boolean;
-  // Added by the pipeline (deterministic O*NET mapping), not by the model:
+  // Suggested by the model from our O*NET list, then checked against the data:
   current_onet_code?: string | null;
   target_onet_code?: string | null;
 }

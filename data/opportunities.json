@@ -1,0 +1,2053 @@
+[
+  {
+    "id": "the-lab-miami",
+    "name": "The LAB Miami",
+    "type": "community",
+    "description": "Wynwood-based coworking space and entrepreneurial community that hosts events and programs for founders and tech professionals.",
+    "url": "https://www.thelabmiami.com",
+    "neighborhood": "Wynwood",
+    "cost": "varies",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "newcomer",
+      "founders",
+      "remote_workers"
+    ],
+    "sector_tags": [
+      "startups",
+      "tech"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "source_url": "https://www.thelabmiami.com",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "venture-cafe-miami",
+    "name": "Venture Café Miami",
+    "type": "meetup",
+    "description": "Nonprofit known for its free weekly Thursday Gathering networking events for Miami's innovation and startup community.",
+    "url": "https://venturecafemiami.org",
+    "cost": "free",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "newcomer",
+      "founders",
+      "career_changer"
+    ],
+    "sector_tags": [
+      "startups",
+      "tech"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "needs_verification": true,
+    "source_url": "https://venturecafemiami.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "refresh-miami",
+    "name": "Refresh Miami",
+    "type": "community",
+    "description": "Nonprofit tech community that publishes South Florida tech news and an events calendar and runs meetups and workshops for founders and tech workers.",
+    "url": "https://refreshmiami.com",
+    "neighborhood": "Countywide",
+    "cost": "free",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "newcomer",
+      "founders",
+      "career_changer",
+      "job_seeker"
+    ],
+    "sector_tags": [
+      "tech",
+      "startups"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "source_url": "https://refreshmiami.com",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "women-in-miami-tech",
+    "name": "Women in Miami Tech",
+    "type": "community",
+    "description": "Community group for women working in or entering Miami's tech industry, with networking events listed on Refresh Miami's calendar.",
+    "url": "https://refreshmiami.com/organizer/women-in-miami-tech/",
+    "cost": "varies",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "women",
+      "newcomer",
+      "career_changer"
+    ],
+    "sector_tags": [
+      "tech"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "needs_verification": true,
+    "source_url": "https://refreshmiami.com/organizer/women-in-miami-tech/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "emerge-americas",
+    "name": "eMerge Americas",
+    "type": "event",
+    "description": "Annual Miami tech conference connecting startups, investors and corporates from the US, Latin America and Europe; check the official site for dates.",
+    "url": "https://emergeamericas.com",
+    "cost": "paid",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "founders",
+      "newcomer",
+      "latino_professionals"
+    ],
+    "sector_tags": [
+      "tech",
+      "startups",
+      "fintech"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "needs_verification": true,
+    "source_url": "https://emergeamericas.com",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "ai-collective-miami",
+    "name": "The AI Collective – Miami Chapter",
+    "type": "community",
+    "description": "Miami chapter of The AI Collective, a global grassroots community that hosts events for builders, researchers and founders working with AI.",
+    "url": "https://www.aicollective.com/chapters/miami",
+    "cost": "varies",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "newcomer",
+      "founders",
+      "career_changer"
+    ],
+    "sector_tags": [
+      "tech",
+      "startups"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "source_url": "https://www.aicollective.com/chapters/miami",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "code-for-miami",
+    "name": "Code for Miami",
+    "type": "community",
+    "description": "Volunteer civic-tech group that has worked on open-source projects with local government and community organizations.",
+    "url": "https://codeformiami.org",
+    "cost": "free",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "newcomer",
+      "career_changer",
+      "students"
+    ],
+    "sector_tags": [
+      "tech",
+      "government",
+      "nonprofit"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "needs_verification": true,
+    "source_url": "https://codeformiami.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "endeavor-miami",
+    "name": "Endeavor Miami",
+    "type": "mentorship",
+    "description": "Local affiliate of the global Endeavor network that selects and supports high-impact scale-up founders with mentorship and network access.",
+    "url": "https://endeavormiami.org",
+    "cost": "free",
+    "cost_note": "Competitive selection for growth-stage founders",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "founders",
+      "latino_professionals"
+    ],
+    "sector_tags": [
+      "startups"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "source_url": "https://endeavormiami.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "startup-fiu",
+    "name": "StartUP FIU",
+    "type": "program",
+    "description": "Florida International University's entrepreneurship hub offering accelerator programs and resources for founders from FIU and the wider community.",
+    "url": "https://startup.fiu.edu",
+    "neighborhood": "Westchester",
+    "cost": "free",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "founders",
+      "students",
+      "small_business"
+    ],
+    "sector_tags": [
+      "startups"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "source_url": "https://startup.fiu.edu",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "um-launch-pad",
+    "name": "The Launch Pad at University of Miami",
+    "type": "mentorship",
+    "description": "University of Miami's venture-creation program providing coaching and mentoring for UM students and alumni starting businesses.",
+    "url": "https://launchpad.miami.edu",
+    "neighborhood": "Coral Gables",
+    "cost": "free",
+    "cost_note": "For UM students and alumni",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "students",
+      "founders"
+    ],
+    "sector_tags": [
+      "startups"
+    ],
+    "no_degree_friendly": false,
+    "modes": [
+      "newcomer"
+    ],
+    "source_url": "https://launchpad.miami.edu",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "miami-dade-beacon-council",
+    "name": "Miami-Dade Beacon Council",
+    "type": "program",
+    "description": "Miami-Dade County's official economic development partnership, helping companies relocate, expand and connect with local resources.",
+    "url": "https://www.beaconcouncil.com",
+    "neighborhood": "Countywide",
+    "cost": "free",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "founders",
+      "small_business",
+      "newcomer"
+    ],
+    "sector_tags": [
+      "general",
+      "startups"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "source_url": "https://www.beaconcouncil.com",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "cic-miami",
+    "name": "CIC Miami (Cambridge Innovation Center)",
+    "type": "community",
+    "description": "Innovation campus offering coworking, private offices and community events for startups and innovation teams.",
+    "url": "https://www.cic.com/miami",
+    "cost": "paid",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "founders",
+      "remote_workers",
+      "newcomer"
+    ],
+    "sector_tags": [
+      "startups",
+      "tech",
+      "health"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "needs_verification": true,
+    "source_url": "https://www.cic.com/miami",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "babson-miami",
+    "name": "Babson College Miami",
+    "type": "program",
+    "description": "Babson College's Miami location offering graduate business and entrepreneurship programs for working professionals.",
+    "url": "https://www.babson.edu/visit-babson/babson-miami/",
+    "cost": "paid",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "founders",
+      "career_changer"
+    ],
+    "sector_tags": [
+      "startups",
+      "finance"
+    ],
+    "no_degree_friendly": false,
+    "modes": [
+      "reskill",
+      "newcomer"
+    ],
+    "source_url": "https://www.babson.edu/visit-babson/babson-miami/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "center-for-black-innovation",
+    "name": "Center for Black Innovation",
+    "type": "community",
+    "description": "Miami nonprofit (formerly Code Fever Miami) that provides startup and investor education and community for Black tech entrepreneurs.",
+    "url": "https://centerforblackinnovation.org",
+    "neighborhood": "Overtown",
+    "cost": "free",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "black_professionals",
+      "founders",
+      "youth"
+    ],
+    "sector_tags": [
+      "tech",
+      "startups"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "source_url": "https://centerforblackinnovation.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "black-women-talk-tech",
+    "name": "Black Women Talk Tech",
+    "type": "community",
+    "description": "National community for Black women tech founders that runs events and programming, with a strong Miami presence.",
+    "url": "https://www.blackwomentalktech.com",
+    "cost": "varies",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "women",
+      "black_professionals",
+      "founders"
+    ],
+    "sector_tags": [
+      "tech",
+      "startups"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "needs_verification": true,
+    "source_url": "https://www.blackwomentalktech.com",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "miami-fintech",
+    "name": "Miami Fintech",
+    "type": "community",
+    "description": "Industry association for Miami's financial technology ecosystem, organizing events that connect fintech founders, professionals and institutions.",
+    "url": "https://www.miamifintech.org",
+    "cost": "varies",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "founders",
+      "newcomer",
+      "career_changer"
+    ],
+    "sector_tags": [
+      "fintech",
+      "finance",
+      "tech"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "source_url": "https://www.miamifintech.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "himss-south-florida",
+    "name": "HIMSS South Florida Chapter",
+    "type": "community",
+    "description": "Regional chapter of HIMSS, the health information and technology association, offering networking and education for health-tech professionals.",
+    "url": "https://southflorida.himss.org",
+    "cost": "varies",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "newcomer"
+    ],
+    "sector_tags": [
+      "health",
+      "tech"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "needs_verification": true,
+    "source_url": "https://southflorida.himss.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "frla",
+    "name": "Florida Restaurant & Lodging Association (FRLA)",
+    "type": "community",
+    "description": "Statewide hospitality trade association with regional chapters offering industry networking, food-safety training and workforce programs.",
+    "url": "https://frla.org",
+    "cost": "varies",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "small_business",
+      "job_seeker",
+      "career_changer"
+    ],
+    "sector_tags": [
+      "hospitality"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "source_url": "https://frla.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "greater-miami-chamber",
+    "name": "Greater Miami Chamber of Commerce",
+    "type": "community",
+    "description": "One of Miami's largest business associations, running networking events, leadership programs and advocacy for local businesses.",
+    "url": "https://www.miamichamber.com",
+    "cost": "paid",
+    "cost_note": "Membership-based",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "small_business",
+      "newcomer",
+      "founders"
+    ],
+    "sector_tags": [
+      "general"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "source_url": "https://www.miamichamber.com",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "miami-dade-chamber-of-commerce",
+    "name": "Miami-Dade Chamber of Commerce",
+    "type": "community",
+    "description": "Chamber focused on advancing Black-owned businesses and economic development in Miami-Dade through networking, advocacy and programs.",
+    "url": "https://m-dcc.org",
+    "neighborhood": "Countywide",
+    "cost": "varies",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "black_professionals",
+      "small_business",
+      "founders"
+    ],
+    "sector_tags": [
+      "general"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "source_url": "https://m-dcc.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "camacol",
+    "name": "CAMACOL – Latin Chamber of Commerce of the USA",
+    "type": "community",
+    "description": "Miami-based Hispanic business chamber supporting Latin American and Hispanic entrepreneurs with networking, trade events and advocacy.",
+    "url": "https://camacol.org",
+    "neighborhood": "Little Havana",
+    "cost": "varies",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "latino_professionals",
+      "spanish_speaker",
+      "small_business",
+      "immigrant"
+    ],
+    "sector_tags": [
+      "general"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "source_url": "https://camacol.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "score-miami-dade",
+    "name": "SCORE Miami-Dade",
+    "type": "mentorship",
+    "description": "Local SCORE chapter offering free one-on-one mentoring from volunteer business mentors plus low-cost workshops for small business owners.",
+    "url": "https://www.score.org/miamidade",
+    "neighborhood": "Countywide",
+    "cost": "free",
+    "schedule": [
+      "online"
+    ],
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "small_business",
+      "founders",
+      "career_changer"
+    ],
+    "sector_tags": [
+      "general",
+      "startups"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "needs_verification": true,
+    "source_url": "https://www.score.org/miamidade",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "fiu-sbdc",
+    "name": "Florida SBDC at FIU",
+    "type": "mentorship",
+    "description": "Small Business Development Center at FIU providing no-cost consulting and training to help Miami-Dade small businesses start and grow.",
+    "url": "https://business.fiu.edu/faculty-and-research/centers-institutes/sbdc/",
+    "neighborhood": "Countywide",
+    "cost": "free",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "small_business",
+      "founders",
+      "spanish_speaker"
+    ],
+    "sector_tags": [
+      "general"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "source_url": "https://business.fiu.edu/faculty-and-research/centers-institutes/sbdc/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "prospera",
+    "name": "Prospera",
+    "type": "mentorship",
+    "description": "Nonprofit providing bilingual business consulting, training and access-to-capital support for Hispanic entrepreneurs in Florida.",
+    "url": "https://prosperausa.org",
+    "cost": "free",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "audience_tags": [
+      "spanish_speaker",
+      "latino_professionals",
+      "small_business",
+      "immigrant",
+      "founders"
+    ],
+    "sector_tags": [
+      "general"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "source_url": "https://prosperausa.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "catalyst-miami",
+    "name": "Catalyst Miami",
+    "type": "program",
+    "description": "Nonprofit offering financial coaching, benefits access, civic leadership training and community programs for low-income Miami-Dade residents.",
+    "url": "https://www.catalystmiami.org",
+    "neighborhood": "Countywide",
+    "cost": "free",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "low_income",
+      "newcomer",
+      "immigrant",
+      "job_seeker"
+    ],
+    "sector_tags": [
+      "nonprofit",
+      "general"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "source_url": "https://www.catalystmiami.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "miami-dade-public-library",
+    "name": "Miami-Dade Public Library System – Learning & Training",
+    "type": "program",
+    "description": "Free classes, English conversation and ESL resources, job help and online learning platforms available with a library card at branches across the county.",
+    "url": "https://www.mdpls.org/learning",
+    "neighborhood": "Countywide",
+    "cost": "free",
+    "cost_note": "Free with a Miami-Dade library card",
+    "schedule": [
+      "online",
+      "evenings",
+      "weekends"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "newcomer",
+      "immigrant",
+      "spanish_speaker",
+      "job_seeker",
+      "low_income"
+    ],
+    "sector_tags": [
+      "education",
+      "general"
+    ],
+    "skills_taught": [
+      "computer_basics",
+      "english_language"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "source_url": "https://www.mdpls.org/learning",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "catholic-charities-miami",
+    "name": "Catholic Charities of the Archdiocese of Miami",
+    "type": "program",
+    "description": "Social service agency offering immigration legal services, refugee resettlement support and other community programs in South Florida.",
+    "url": "https://www.ccadm.org",
+    "neighborhood": "Countywide",
+    "cost": "varies",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "immigrant",
+      "newcomer",
+      "spanish_speaker",
+      "low_income"
+    ],
+    "sector_tags": [
+      "nonprofit"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "source_url": "https://www.ccadm.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "church-world-service-miami",
+    "name": "Church World Service – Miami",
+    "type": "program",
+    "description": "Refugee and immigrant services office providing resettlement, employment and integration support to newcomers in Miami.",
+    "url": "https://www.cwsglobal.org/locations/miami",
+    "cost": "free",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "immigrant",
+      "newcomer",
+      "job_seeker"
+    ],
+    "sector_tags": [
+      "nonprofit"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "needs_verification": true,
+    "source_url": "https://www.cwsglobal.org/locations/miami",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "lutheran-services-florida",
+    "name": "Lutheran Services Florida",
+    "type": "program",
+    "description": "Statewide social services nonprofit whose programs include refugee and immigrant services in South Florida.",
+    "url": "https://www.lsfnet.org",
+    "cost": "free",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "immigrant",
+      "newcomer"
+    ],
+    "sector_tags": [
+      "nonprofit"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "needs_verification": true,
+    "source_url": "https://www.lsfnet.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "florida-immigrant-coalition",
+    "name": "Florida Immigrant Coalition (FLIC)",
+    "type": "community",
+    "description": "Statewide coalition advocating for immigrant rights and sharing know-your-rights information and community resources.",
+    "url": "https://floridaimmigrant.org",
+    "cost": "free",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "immigrant",
+      "newcomer",
+      "spanish_speaker"
+    ],
+    "sector_tags": [
+      "nonprofit"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "source_url": "https://floridaimmigrant.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "miami-dade-oied",
+    "name": "Miami-Dade County Office of Innovation & Economic Development",
+    "type": "program",
+    "description": "County office supporting small businesses and economic development, including resources for local entrepreneurs.",
+    "url": "https://www.miamidade.gov/global/economy/innovation-and-economic-development/home.page",
+    "neighborhood": "Countywide",
+    "cost": "free",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "small_business",
+      "founders"
+    ],
+    "sector_tags": [
+      "government",
+      "general"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "source_url": "https://www.miamidade.gov/global/economy/innovation-and-economic-development/home.page",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "city-of-miami-business",
+    "name": "City of Miami – Business Resources",
+    "type": "program",
+    "description": "City of Miami portal for business licensing (Business Tax Receipts) and resources for starting a business within city limits.",
+    "url": "https://www.miami.gov/Business",
+    "cost": "free",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "small_business",
+      "founders",
+      "newcomer"
+    ],
+    "sector_tags": [
+      "government"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer"
+    ],
+    "needs_verification": true,
+    "source_url": "https://www.miami.gov/Business",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "careersource-south-florida",
+    "name": "CareerSource South Florida",
+    "type": "career-service",
+    "description": "Public workforce board with career centers across Miami-Dade offering job search help, workshops and referrals to funded training.",
+    "url": "https://www.careersourcesfl.com",
+    "neighborhood": "Countywide",
+    "cost": "free",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "job_seeker",
+      "career_changer",
+      "newcomer",
+      "low_income",
+      "veterans",
+      "no_degree"
+    ],
+    "sector_tags": [
+      "general"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill",
+      "newcomer"
+    ],
+    "source_url": "https://www.careersourcesfl.com",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "careersource-training-funding",
+    "name": "CareerSource South Florida – Training Funding (WIOA)",
+    "type": "program",
+    "description": "Training scholarships and incentives that can pay for approved occupational training for eligible job seekers.",
+    "url": "https://www.careersourcesfl.com/training-incentives",
+    "neighborhood": "Countywide",
+    "cost": "free",
+    "cost_note": "Free for eligible residents via WIOA funding",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "job_seeker",
+      "career_changer",
+      "low_income",
+      "no_degree"
+    ],
+    "sector_tags": [
+      "general"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.careersourcesfl.com/training-incentives",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdc-continuing-education",
+    "name": "Miami Dade College – Continuing Education",
+    "type": "training",
+    "description": "Non-credit workforce and personal enrichment courses at MDC campuses and online, including short professional certificates.",
+    "url": "https://ce.mdc.edu",
+    "neighborhood": "Countywide",
+    "cost": "low",
+    "schedule": [
+      "evenings",
+      "weekends",
+      "online"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "job_seeker",
+      "no_degree"
+    ],
+    "sector_tags": [
+      "general",
+      "tech",
+      "health"
+    ],
+    "skills_taught": [
+      "computer_basics",
+      "project_management",
+      "spreadsheets"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://ce.mdc.edu",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdc-entec-it-cybersecurity",
+    "name": "MDC EnTec – IT, Networking & Cybersecurity Certificates",
+    "type": "certificate",
+    "description": "Miami Dade College's School of Engineering and Technology offers college credit certificates and degrees in cybersecurity, networking and cloud computing.",
+    "url": "https://www.mdc.edu/entec/",
+    "neighborhood": "Countywide",
+    "cost": "low",
+    "duration": "1–2 semesters",
+    "schedule": [
+      "evenings",
+      "online"
+    ],
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "job_seeker",
+      "students"
+    ],
+    "sector_tags": [
+      "tech"
+    ],
+    "skills_taught": [
+      "it_support",
+      "networking",
+      "cybersecurity",
+      "cloud"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.mdc.edu/entec/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdc-entec-data-analytics",
+    "name": "MDC EnTec – Data Analytics",
+    "type": "certificate",
+    "description": "Data analytics credentials at Miami Dade College's School of Engineering and Technology covering data tools, SQL and Python.",
+    "url": "https://www.mdc.edu/entec/",
+    "neighborhood": "Countywide",
+    "cost": "low",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "students",
+      "job_seeker"
+    ],
+    "sector_tags": [
+      "tech",
+      "finance"
+    ],
+    "skills_taught": [
+      "data_analysis",
+      "sql",
+      "python",
+      "spreadsheets"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.mdc.edu/entec/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdc-artificial-intelligence",
+    "name": "MDC Artificial Intelligence Programs",
+    "type": "certificate",
+    "description": "Miami Dade College offers artificial intelligence credentials and degrees through its School of Engineering and Technology.",
+    "url": "https://www.mdc.edu/entec/",
+    "source_url": "https://www.mdc.edu/entec/grants/ai.aspx",
+    "neighborhood": "Countywide",
+    "cost": "low",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "students"
+    ],
+    "sector_tags": [
+      "tech"
+    ],
+    "skills_taught": [
+      "ai_ml",
+      "python",
+      "programming",
+      "data_analysis"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdc-medical-campus",
+    "name": "MDC Medical Campus – Allied Health Certificates",
+    "type": "certificate",
+    "description": "Miami Dade College's Medical Campus offers healthcare certification programs including medical assisting, phlebotomy, pharmacy technician and medical coder/biller.",
+    "url": "https://www.mdc.edu/medical/",
+    "neighborhood": "Health District",
+    "cost": "low",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "job_seeker",
+      "no_degree"
+    ],
+    "sector_tags": [
+      "health"
+    ],
+    "skills_taught": [
+      "medical_terminology",
+      "patient_care",
+      "phlebotomy",
+      "pharmacy",
+      "medical_billing_coding"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.mdc.edu/medical/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdc-medical-coder-biller",
+    "name": "MDC Medical Coder/Biller",
+    "type": "certificate",
+    "description": "Miami Dade College Medical Campus program preparing students to code and bill medical records for healthcare providers.",
+    "url": "https://www.mdc.edu/medical/",
+    "neighborhood": "Health District",
+    "cost": "low",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "job_seeker",
+      "no_degree"
+    ],
+    "sector_tags": [
+      "health"
+    ],
+    "skills_taught": [
+      "medical_billing_coding",
+      "medical_terminology",
+      "ehr_systems"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.mdc.edu/medical/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdc-pharmacy-technician",
+    "name": "MDC Pharmacy Technician",
+    "type": "certificate",
+    "description": "Miami Dade College Medical Campus program training pharmacy technicians for retail and hospital pharmacies.",
+    "url": "https://www.mdc.edu/medical/",
+    "neighborhood": "Health District",
+    "cost": "low",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "job_seeker",
+      "no_degree"
+    ],
+    "sector_tags": [
+      "health"
+    ],
+    "skills_taught": [
+      "pharmacy",
+      "medical_terminology",
+      "customer_service"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.mdc.edu/medical/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdc-phlebotomy",
+    "name": "MDC Phlebotomy",
+    "type": "certificate",
+    "description": "Short Miami Dade College Medical Campus program training students to draw and handle blood specimens.",
+    "url": "https://www.mdc.edu/medical/",
+    "neighborhood": "Health District",
+    "cost": "low",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "job_seeker",
+      "no_degree"
+    ],
+    "sector_tags": [
+      "health"
+    ],
+    "skills_taught": [
+      "phlebotomy",
+      "patient_care",
+      "medical_terminology"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.mdc.edu/medical/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdc-medical-assisting",
+    "name": "MDC Medical Assisting",
+    "type": "certificate",
+    "description": "Miami Dade College Medical Campus program preparing medical assistants for clinical and administrative work in physician offices.",
+    "url": "https://www.mdc.edu/medical/",
+    "neighborhood": "Health District",
+    "cost": "low",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "job_seeker",
+      "no_degree"
+    ],
+    "sector_tags": [
+      "health"
+    ],
+    "skills_taught": [
+      "patient_care",
+      "medical_terminology",
+      "ehr_systems",
+      "scheduling"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.mdc.edu/medical/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdc-supply-chain-logistics",
+    "name": "MDC Supply Chain Management & Logistics",
+    "type": "certificate",
+    "description": "Miami Dade College business programs in supply chain management, logistics and supply chain analytics, relevant to Miami's port and airport economy.",
+    "url": "https://www.mdc.edu/business/",
+    "neighborhood": "Countywide",
+    "cost": "low",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "job_seeker"
+    ],
+    "sector_tags": [
+      "logistics"
+    ],
+    "skills_taught": [
+      "logistics",
+      "supply_chain",
+      "inventory",
+      "data_analysis"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.mdc.edu/business/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdc-hospitality",
+    "name": "MDC Miami International Hospitality Center",
+    "type": "training",
+    "description": "Miami Dade College's hospitality center offering programs in hospitality and tourism management and related industry training.",
+    "url": "https://www.mdc.edu/hospitality/",
+    "cost": "low",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "job_seeker",
+      "students"
+    ],
+    "sector_tags": [
+      "hospitality"
+    ],
+    "skills_taught": [
+      "hospitality_operations",
+      "customer_service",
+      "food_safety"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.mdc.edu/hospitality/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdc-magic",
+    "name": "MDC MAGIC (Miami Animation & Gaming International Complex)",
+    "type": "training",
+    "description": "Miami Dade College's center for animation, game development and digital media programs.",
+    "url": "https://www.mdc.edu/magic/",
+    "neighborhood": "Downtown",
+    "cost": "low",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "students",
+      "youth"
+    ],
+    "sector_tags": [
+      "creative",
+      "tech"
+    ],
+    "skills_taught": [
+      "ux_design",
+      "programming"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.mdc.edu/magic/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdc-works",
+    "name": "MDC Works – Career Services",
+    "type": "career-service",
+    "description": "Miami Dade College's career services office helping students and alumni with job search, internships and employer connections.",
+    "url": "https://www.mdc.edu/mdcworks/",
+    "neighborhood": "Countywide",
+    "cost": "free",
+    "cost_note": "For MDC students and alumni",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "students",
+      "job_seeker"
+    ],
+    "sector_tags": [
+      "general"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.mdc.edu/mdcworks/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "fiu-continuing-education",
+    "name": "FIU Continuing Education – Non-Credit Certificates",
+    "type": "certificate",
+    "description": "FIU's non-credit professional certificates in areas such as project management, business analytics and digital marketing, largely online.",
+    "url": "https://continue.fiu.edu",
+    "source_url": "https://continue.fiu.edu/non-credit-certificates/",
+    "cost": "paid",
+    "schedule": [
+      "online"
+    ],
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "job_seeker"
+    ],
+    "sector_tags": [
+      "general",
+      "tech"
+    ],
+    "skills_taught": [
+      "project_management",
+      "data_analysis",
+      "marketing"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "fiu-chaplin-hospitality",
+    "name": "FIU Chaplin School of Hospitality & Tourism Management",
+    "type": "program",
+    "description": "FIU's hospitality school offering degree and professional programs in hospitality, tourism and restaurant management.",
+    "url": "https://hospitality.fiu.edu",
+    "neighborhood": "North Miami",
+    "cost": "paid",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "students",
+      "career_changer"
+    ],
+    "sector_tags": [
+      "hospitality"
+    ],
+    "skills_taught": [
+      "hospitality_operations",
+      "revenue_management",
+      "food_safety"
+    ],
+    "no_degree_friendly": false,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://hospitality.fiu.edu",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "lindsey-hopkins-technical-college",
+    "name": "Lindsey Hopkins Technical College",
+    "type": "training",
+    "description": "Miami-Dade County Public Schools technical college offering career and technical programs, with a strong focus on health careers, plus adult education.",
+    "url": "https://www.lindseyhopkins.edu",
+    "neighborhood": "Allapattah",
+    "cost": "low",
+    "schedule": [
+      "evenings"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "no_degree",
+      "job_seeker",
+      "low_income"
+    ],
+    "sector_tags": [
+      "health",
+      "trades"
+    ],
+    "skills_taught": [
+      "patient_care",
+      "medical_terminology",
+      "pharmacy"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "needs_verification": true,
+    "source_url": "https://www.lindseyhopkins.edu",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "the-english-center",
+    "name": "The English Center (TEC)",
+    "type": "training",
+    "description": "Miami-Dade County Public Schools adult education center and technical college founded to serve refugees, offering ESOL, GED, citizenship and career programs.",
+    "url": "https://tecmiami.dadeschools.net",
+    "neighborhood": "Coconut Grove",
+    "cost": "low",
+    "schedule": [
+      "evenings"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "newcomer",
+      "immigrant",
+      "spanish_speaker",
+      "no_degree",
+      "low_income"
+    ],
+    "sector_tags": [
+      "education"
+    ],
+    "skills_taught": [
+      "english_language",
+      "communication"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "source_url": "https://tecmiami.dadeschools.net",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "mdcps-adult-education",
+    "name": "M-DCPS Adult & Career Technical Education",
+    "type": "training",
+    "description": "Miami-Dade County Public Schools adult education offering ESOL, GED and career technical programs at technical colleges and adult centers countywide.",
+    "url": "https://www.dadeschools.net/adulted",
+    "neighborhood": "Countywide",
+    "cost": "low",
+    "schedule": [
+      "evenings"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "newcomer",
+      "immigrant",
+      "no_degree",
+      "career_changer",
+      "low_income"
+    ],
+    "sector_tags": [
+      "education",
+      "trades",
+      "health"
+    ],
+    "skills_taught": [
+      "english_language",
+      "computer_basics"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "newcomer",
+      "reskill"
+    ],
+    "source_url": "https://www.dadeschools.net/adulted",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "robert-morgan-technical-college",
+    "name": "Robert Morgan Educational Center and Technical College",
+    "type": "training",
+    "description": "M-DCPS technical college in South Miami-Dade offering career and technical certificate programs for adults.",
+    "url": "https://www.robertmorgantech.edu",
+    "neighborhood": "Kendall",
+    "cost": "low",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "no_degree",
+      "job_seeker"
+    ],
+    "sector_tags": [
+      "trades",
+      "tech",
+      "health"
+    ],
+    "skills_taught": [
+      "hvac",
+      "electrical",
+      "it_support"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "needs_verification": true,
+    "source_url": "https://www.robertmorgantech.edu",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "george-t-baker-aviation",
+    "name": "George T. Baker Aviation Technical College",
+    "type": "training",
+    "description": "M-DCPS technical college near Miami International Airport training aviation maintenance technicians.",
+    "url": "https://externalweb.dadeschools.net/?web=bakeraviationtechcollege",
+    "neighborhood": "Miami Springs",
+    "cost": "low",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "no_degree",
+      "job_seeker"
+    ],
+    "sector_tags": [
+      "trades",
+      "logistics"
+    ],
+    "skills_taught": [
+      "electrical",
+      "quality_assurance",
+      "construction_safety"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "needs_verification": true,
+    "source_url": "https://externalweb.dadeschools.net/?web=bakeraviationtechcollege",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "da-dorsey-technical-college",
+    "name": "D.A. Dorsey Technical College",
+    "type": "training",
+    "description": "M-DCPS technical college in Liberty City/Brownsville area offering career and technical programs and adult education.",
+    "url": "https://www.dadorseytech.edu",
+    "neighborhood": "Liberty City",
+    "cost": "low",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "no_degree",
+      "job_seeker",
+      "low_income"
+    ],
+    "sector_tags": [
+      "trades"
+    ],
+    "skills_taught": [
+      "construction_safety",
+      "carpentry",
+      "electrical"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "needs_verification": true,
+    "source_url": "https://www.dadorseytech.edu",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "miami-lakes-technical-college",
+    "name": "Miami Lakes Technical College",
+    "type": "training",
+    "description": "M-DCPS technical college offering adult career and technical training in skilled trades and other fields.",
+    "url": "https://www.miamilakes.edu",
+    "neighborhood": "Miami Lakes",
+    "cost": "low",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "no_degree",
+      "job_seeker"
+    ],
+    "sector_tags": [
+      "trades",
+      "logistics"
+    ],
+    "skills_taught": [
+      "hvac",
+      "electrical",
+      "welding",
+      "plumbing"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "needs_verification": true,
+    "source_url": "https://www.miamilakes.edu",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "abc-institute-apprenticeship",
+    "name": "ABC Institute – Construction Apprenticeships (ABC Florida East Coast)",
+    "type": "apprenticeship",
+    "description": "Education arm of the Associated Builders and Contractors Florida East Coast Chapter offering registered earn-while-you-learn apprenticeships in construction trades, with a Miami campus.",
+    "url": "https://wetrain.org",
+    "source_url": "https://wetrain.org",
+    "cost": "low",
+    "schedule": [
+      "evenings"
+    ],
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "no_degree",
+      "job_seeker",
+      "youth"
+    ],
+    "sector_tags": [
+      "trades"
+    ],
+    "skills_taught": [
+      "electrical",
+      "hvac",
+      "plumbing",
+      "carpentry",
+      "construction_safety"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "iec-fecc-electrical-apprenticeship",
+    "name": "IEC Florida East Coast Chapter – Electrical Apprenticeship",
+    "type": "apprenticeship",
+    "description": "Independent Electrical Contractors chapter running an electrical apprenticeship school where apprentices work for contractors while taking classes.",
+    "url": "https://www.iec-fecc.org",
+    "cost": "low",
+    "schedule": [
+      "evenings"
+    ],
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "no_degree",
+      "job_seeker"
+    ],
+    "sector_tags": [
+      "trades"
+    ],
+    "skills_taught": [
+      "electrical",
+      "construction_safety"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.iec-fecc.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "ibew-349-apprenticeship",
+    "name": "IBEW Local 349 – Electrical Apprenticeship",
+    "type": "apprenticeship",
+    "description": "Miami electrical workers' union whose joint apprenticeship program trains inside wiremen through paid on-the-job work and classroom instruction.",
+    "url": "https://www.ibew349.org",
+    "cost": "low",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "no_degree",
+      "job_seeker"
+    ],
+    "sector_tags": [
+      "trades"
+    ],
+    "skills_taught": [
+      "electrical",
+      "construction_safety"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "needs_verification": true,
+    "source_url": "https://www.ibew349.org",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "gold-coast-schools-real-estate",
+    "name": "Gold Coast Schools – Florida Real Estate Sales Associate Course",
+    "type": "certificate",
+    "description": "Florida real estate school offering the state-required 63-hour sales associate pre-licensing course in classroom and online formats.",
+    "url": "https://goldcoastschools.com/real-estate/",
+    "cost": "paid",
+    "duration": "63 hours",
+    "schedule": [
+      "online",
+      "evenings",
+      "weekends"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "no_degree",
+      "spanish_speaker"
+    ],
+    "sector_tags": [
+      "real_estate"
+    ],
+    "skills_taught": [
+      "real_estate_law",
+      "negotiation",
+      "sales"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://goldcoastschools.com/real-estate/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "florida-real-estate-commission",
+    "name": "Florida Real Estate Commission (DBPR) – Licensing",
+    "type": "program",
+    "description": "State regulator explaining Florida real estate license requirements, including the 63-hour pre-licensing course and state exam.",
+    "url": "https://www2.myfloridalicense.com/real-estate-commission/",
+    "cost": "varies",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "no_degree"
+    ],
+    "sector_tags": [
+      "real_estate",
+      "government"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www2.myfloridalicense.com/real-estate-commission/",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "goodwill-south-florida",
+    "name": "Goodwill Industries of South Florida – Job Services",
+    "type": "career-service",
+    "description": "Nonprofit providing job training, placement and employment services, with a focus on people with disabilities and other barriers to work.",
+    "url": "https://goodwillsouthflorida.org",
+    "source_url": "https://goodwillsouthflorida.org/jobs-services/",
+    "neighborhood": "Countywide",
+    "cost": "free",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "job_seeker",
+      "no_degree",
+      "low_income"
+    ],
+    "sector_tags": [
+      "general",
+      "logistics"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill",
+      "newcomer"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "4geeks-academy",
+    "name": "4Geeks Academy",
+    "type": "training",
+    "description": "Miami-founded coding bootcamp offering full-stack development, data science and cybersecurity programs, and a workforce training partner of Miami Dade College.",
+    "url": "https://4geeks.com",
+    "cost": "paid",
+    "schedule": [
+      "online",
+      "evenings"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "no_degree",
+      "spanish_speaker"
+    ],
+    "sector_tags": [
+      "tech"
+    ],
+    "skills_taught": [
+      "web_development",
+      "programming",
+      "python",
+      "cybersecurity",
+      "data_analysis"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://4geeks.com",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "ironhack",
+    "name": "Ironhack",
+    "type": "training",
+    "description": "Tech bootcamp offering web development, UX/UI design, data analytics and cybersecurity programs; Miami classes now appear to be offered remotely.",
+    "url": "https://www.ironhack.com/us",
+    "neighborhood": "Online",
+    "cost": "paid",
+    "schedule": [
+      "online",
+      "full-time"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "no_degree",
+      "remote_workers"
+    ],
+    "sector_tags": [
+      "tech"
+    ],
+    "skills_taught": [
+      "web_development",
+      "ux_design",
+      "data_analysis",
+      "cybersecurity"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "needs_verification": true,
+    "source_url": "https://www.ironhack.com/us",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "general-assembly",
+    "name": "General Assembly",
+    "type": "training",
+    "description": "Online tech education provider offering bootcamps and short courses in software engineering, data, UX design and digital marketing.",
+    "url": "https://www.generalassemb.ly",
+    "neighborhood": "Online",
+    "cost": "paid",
+    "schedule": [
+      "online"
+    ],
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "remote_workers",
+      "no_degree"
+    ],
+    "sector_tags": [
+      "tech",
+      "creative"
+    ],
+    "skills_taught": [
+      "web_development",
+      "data_analysis",
+      "ux_design",
+      "marketing"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://www.generalassemb.ly",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "google-career-certificates",
+    "name": "Google Career Certificates",
+    "type": "certificate",
+    "description": "Self-paced online certificates from Google in IT support, data analytics, cybersecurity, project management and UX design, designed for beginners.",
+    "url": "https://grow.google/certificates",
+    "neighborhood": "Online",
+    "cost": "paid",
+    "schedule": [
+      "online"
+    ],
+    "languages": [
+      "en",
+      "es"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "no_degree",
+      "job_seeker",
+      "remote_workers"
+    ],
+    "sector_tags": [
+      "tech"
+    ],
+    "skills_taught": [
+      "it_support",
+      "data_analysis",
+      "cybersecurity",
+      "project_management",
+      "ux_design",
+      "spreadsheets",
+      "sql"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://grow.google/certificates",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "miami-ad-school",
+    "name": "Miami Ad School",
+    "type": "training",
+    "description": "Portfolio school for advertising and creative careers, offering programs in copywriting, art direction, design and strategy.",
+    "url": "https://miamiadschool.com",
+    "cost": "paid",
+    "languages": [
+      "en"
+    ],
+    "audience_tags": [
+      "career_changer",
+      "students"
+    ],
+    "sector_tags": [
+      "creative"
+    ],
+    "skills_taught": [
+      "marketing",
+      "social_media",
+      "ux_design"
+    ],
+    "no_degree_friendly": true,
+    "modes": [
+      "reskill"
+    ],
+    "source_url": "https://miamiadschool.com",
+    "last_verified": "2026-10-10"
+  }
+]
