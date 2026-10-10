@@ -151,9 +151,9 @@ Demo personas you've already run are cached in `.cache/` (git-ignored, model out
 
 ## Team
 
-- _Name — role (add GitHub/LinkedIn)_
-- _Name — role_
-- _Name — role_
+- Carlo
+- Jack
+- Giovanna
 
 ## License
 
