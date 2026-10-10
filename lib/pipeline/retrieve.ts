@@ -145,6 +145,7 @@ function toTargetOption(o: Occupation, skills: Set<string>): TargetOption {
     title: o.title,
     title_es: o.title_es,
     median_wage_miami: o.median_wage_miami,
+    typical_education: o.typical_education,
     skill_overlap: o.key_skills.length ? transferable.length / o.key_skills.length : 0,
     transferable_skills: transferable,
     skills_to_build: o.key_skills.filter((s) => !skills.has(s)),

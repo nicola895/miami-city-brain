@@ -23,7 +23,10 @@ export function TargetPicker({ options, lang, t, onPick }: { options: TargetOpti
               <span className="text-lg font-semibold">{lang === "es" ? o.title_es : o.title}</span>
               <span className="text-lg font-bold text-teal-700">{fmtWage(o.median_wage_miami)}</span>
             </div>
-            <div className="text-xs text-slate-500">O*NET {o.onet_code} · {t.medianMiami}</div>
+            <div className="flex flex-wrap items-center gap-2 text-xs text-slate-500">
+              O*NET {o.onet_code} · {t.medianMiami}
+              {o.typical_education === "bachelor" ? <Badge tone="amber">🎓 {t.degreeUsual}</Badge> : <Badge tone="teal">✓ {t.noDegreeBadge}</Badge>}
+            </div>
             <div className="mt-2 text-sm text-slate-700">
               <b>{Math.round(o.skill_overlap * 100)}%</b> {t.skillsMatch}
             </div>

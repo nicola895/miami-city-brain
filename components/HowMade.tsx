@@ -39,7 +39,7 @@ export function HowMade({ open, onClose, t, profile, candidates, meta }: {
             </pre>
           )}
           <table className="w-full text-xs">
-            <thead><tr className="text-left text-slate-500"><th className="py-1">id</th><th>{t.score}</th><th>why</th></tr></thead>
+            <thead><tr className="text-left text-slate-500"><th className="py-1 pr-2">id</th><th className="pr-2">{t.score}</th><th>{t.reasons}</th></tr></thead>
             <tbody>
               {candidates?.items.map((i) => (
                 <tr key={i.opportunity.id} className="border-t border-slate-100 align-top">

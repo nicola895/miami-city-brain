@@ -84,6 +84,7 @@ export interface TargetOption {
   title: string;
   title_es: string;
   median_wage_miami?: number;
+  typical_education: Occupation["typical_education"];
   skill_overlap: number;
   transferable_skills: string[];
   skills_to_build: string[];
